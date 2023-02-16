@@ -17,7 +17,7 @@ function App() {
       <h1 className="text-5xl font-bold mb-10">Welcome to the Counter App</h1>
       <h4 className="text-4xl">
         The Counter is{" "}
-        <span className="border border-slate-100 pt-3 pb-3 pl-6 pr-6 bg-orange-300 text-slate-900">
+        <span className="border border-slate-100 pt-3 pb-3 pl-6 pr-6 bg-pink-400 text-slate-900">
           {counter}
         </span>
       </h4>
