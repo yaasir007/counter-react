@@ -14,7 +14,9 @@ function App() {
 
   return (
     <div>
-      <h1>Welcome to the Counter App</h1>
+      <h1 className="text-3xl font-bold underline">
+        Welcome to the Counter App
+      </h1>
       <h4>The Counter is {counter}</h4>
       <button onClick={decrement}>-</button>
       <button onClick={increment}>+</button>
