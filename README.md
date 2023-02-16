@@ -1,1 +1,1 @@
-<h2>Counter App with React and Tailwind CSSS</h2>
+<h2>Counter App with React and Tailwind CSS</h2>
